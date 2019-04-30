@@ -10,9 +10,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		..\..\..\Desktop\McCannCode\Account.js = ..\..\..\Desktop\McCannCode\Account.js
 		..\..\..\Desktop\McCannCode\Contact.js = ..\..\..\Desktop\McCannCode\Contact.js
 		..\..\..\Desktop\McCannCode\McCannFitzCode.js = ..\..\..\Desktop\McCannCode\McCannFitzCode.js
-		..\..\..\Desktop\McCannCode\Script1.js = ..\..\..\Desktop\McCannCode\Script1.js
-		..\..\..\Desktop\McCannCode\Script2.js = ..\..\..\Desktop\McCannCode\Script2.js
-		..\..\..\Desktop\McCannCode\UpdateAddress.js = ..\..\..\Desktop\McCannCode\UpdateAddress.js
+		..\..\..\Desktop\McCannCode\Test.js = ..\..\..\Desktop\McCannCode\Test.js
 	EndProjectSection
 EndProject
 Global
