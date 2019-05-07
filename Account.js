@@ -9,6 +9,7 @@ function checkPhoneNumber() {
     }
 }
 
+
 function checkEmailAddress() {
     //debugger;
     var email = Xrm.Page.getAttribute('emailaddress1').getValue();
